@@ -1,1 +1,1 @@
-# maze-game-win-console-app
+# labyrinth-game-win-console-app
