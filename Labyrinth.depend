@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1668374398 source:d:\data\programovanie\bludisko\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<dirent.h>
+
+1668376277 source:d:\data\programovanie\github\labyrinth-game-win-console-app\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<dirent.h>
+
